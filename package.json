@@ -1,0 +1,25 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "This package contains sources based following the tutorial in http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browserify": "^10.2.6",
+    "del": "^1.2.0",
+    "gulp": "^3.9.0",
+    "gulp-html-replace": "^1.5.1",
+    "gulp-plumber": "^1.0.1",
+    "gulp-react": "^3.0.1",
+    "gulp-streamify": "0.0.5",
+    "gulp-uglify": "^1.2.0",
+    "reactify": "^1.1.1",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.2.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
