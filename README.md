@@ -25,3 +25,4 @@ module.exports = “Parent”;
 in App.js
 
 var Parent = require(‘./Parent’)
+
