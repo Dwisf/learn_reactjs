@@ -1,6 +1,12 @@
 # learn_reactjs
 This repo follows the tutorial from http://tylermcginnis.com/reactjs-tutorial-pt-2-building-react-applications-with-gulp-and-browserify/
 
+To use:
+
+gulp clean
+
+gulp
+
 Notes:
 - There are some modifications made: Not using html replace, See below.
 
